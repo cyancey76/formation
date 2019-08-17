@@ -6,7 +6,7 @@ boostnote
 brave-browser
 blisk
 caffeine
-canary
+chromium
 craftmanager
 dash
 discord
@@ -26,7 +26,6 @@ google-backup-and-sync
 google-chrome
 harvest
 hyper
-hyperdock
 igetter
 imageoptim
 iterm2
@@ -35,6 +34,9 @@ lepton
 libreoffice
 local-by-flywheel
 mamp
+microsoft-excel
+microsoft-powerpoint
+microsoft-word
 onedrive
 opera
 phonegap
@@ -42,7 +44,6 @@ phpstorm
 postman
 principle
 qbittorrent
-renamer
 rocket
 sequel-pro
 sketch
